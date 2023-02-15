@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a9ec519-a939-4429-9572-eb06297d51f4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>151c5982-64cd-471e-b92e-1b412e4c339c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>151c5982-64cd-471e-b92e-1b412e4c339c</id>
+      <masked>false</masked>
+      <name>Huruf</name>
+   </variable>
+</TestCaseEntity>
